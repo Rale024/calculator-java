@@ -1,5 +1,4 @@
-Calculator.java 
-  LOC = 188
+file: Calculator.java - LOC = 188 - zapazanje: Kod je dobro napisan i funkcionalan.
 
-Start.java
-  LOC = 26
+file: Start.java - LOC - 26 - zapazanje: Kod je dobro napisan i funkcionalan.
+ 
