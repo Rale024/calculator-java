@@ -1,0 +1,3 @@
+Kalkulator ne razlikuje znak "-" kao operand oduzimanja i kao ozdnaku za negativan broj.
+Usled toga, kada se u kalkulator unese: 3 + 5* -2, izbacuje "ERROR" umesto "-7".
+Ovo takodje znaci da nije moguce deljenje negativnih brojeva. Na primer: -6/-3 izbacuje "ERROR" umesto "2".
